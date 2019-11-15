@@ -54,7 +54,7 @@ public class LoginPage {
 	}
 	
 	public HomePage login(String UN, String PW) {
-		
+		//This function is for login
 		unTextBox.sendKeys("");
 		pwTextBox.sendKeys("");
 		loginbtn.click();
